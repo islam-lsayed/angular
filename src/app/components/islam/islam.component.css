@@ -1,0 +1,9 @@
+.myClass{
+    color: red;
+    font: 1em sans-serif;
+}
+
+.myClass2{
+    font-weight: bold;
+    text-decoration: underline;
+}
